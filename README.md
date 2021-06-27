@@ -2,4 +2,5 @@
 Website shows everyday count and total count of COVID-19 cases, deaths and recoveries in India. Gets reliable data from APIs (https://api.covid19api.com/summary)
 <br>
 <br><br>
+![covid](covidtracker.gif)
 ![covid](covidtracker.png)
